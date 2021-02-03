@@ -1,2 +1,8 @@
 greeting:
   message: hello config
+
+spring:
+  data:
+    mongodb:
+      password: '{chiper}AQBFerckxSDsF+3dFtB/csB7ebKWKPRZg37QY84lFxPr/XcinaQ7U9hZBOle39EDZc0RbG6Qbie7CvgVRvTF+A8HnqTPBQ0TUd3CGgaikT/q9tSOb/IjTJNoYJPsCTgzm8DvoOAbSR+tzZiF1vKVvF60vdMhNoacyk0AjRfKpDXbyk70lM5FHhJPFqs7a9clHgf8x1PRC9k3XbrmNuO3jt/mjAc1ohmNVNTNbzg+geGmZZ1HZvZ8muI5Nlz8N+wNx/qhCeHD/IMUrQm56Z7iKlKY6oonlFyukv+ZvUinYbGUFcbxLWxSCbJh7RJgQpScewaCVkKT3+ARyO596UNxU3xaUxSq5/qzVFPdWXsoxvXRBAna3AjA0rXPl+T82dUWgjo=' 
+   
